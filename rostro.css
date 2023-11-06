@@ -1,0 +1,30 @@
+#cara{
+    stroke: lightblue;
+    stroke-width: 3px;
+    fill: blue;
+
+}
+
+.ojo{
+    stroke: violet;
+    stroke-width: 2;
+    fill: violet;
+
+}
+
+.ojo:hover{
+    fill: beige;
+
+}
+
+#boca{
+    stroke-width: 2;
+    fill: palevioletred;
+
+}
+
+.ceja{
+    stroke:lightskyblue;
+    stroke-width: 3;
+
+}
